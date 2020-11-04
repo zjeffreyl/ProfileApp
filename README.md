@@ -28,6 +28,8 @@ You can run with iOS devices or android devices.
 
 4. Setup for android studio following the guide on [Flutter Website](https://flutter.dev/docs/get-started/install/macos)
 
+5. Update the dependencies with `pub get` or android studio's Pub upgrade tool.
+
 5. After set up use `flutter run` in the project directory to run while a device is ready to use.
 
 
